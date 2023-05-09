@@ -61,7 +61,6 @@ Outside the promise, we use the `.then()` method to "listen" for the promise to 
 
 Promises can be a bit tricky to understand at first, but they're an important part of writing asynchronous JavaScript code that's easy to read and maintain.
 
-
 ## Async JS
 
 JavaScript is a single-threaded language, which means it can only execute one thing at a time. However, many tasks in JavaScript are `asynchronous`, meaning they take some time to complete and the program needs to wait for them to finish before moving on to the next task. Examples of `asynchronous` tasks include making network requests, reading or writing to files, and waiting for user input.
