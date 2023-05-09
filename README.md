@@ -90,6 +90,16 @@ In this example, the `getData()` function is defined as `async`, which means it 
 
 Overall, `asynchronous` JavaScript is an important concept to understand if you want to write efficient and responsive web applications. By using `callbacks`, `promises`, or `async`/`await` syntax, you can handle asynchronous tasks in a way that doesn't block the main thread of execution and allows your program to continue running smoothly.
 
+## Challenge
+
+Create a webpage that allows the user to enter a GitHub Username, When the user submits the form, use the GitHub API to retrieve information about the user's repositories.
+
+Display a list of the username's repos, including the name, descriptions and number of stars.
+
+When the user clicks on a repo it should take them to the repo on GitHub.
+
+This challenge would allow you all to practice using the GitHub API to retrieve data, as well as using async/await syntax to handle asynchronous requests. Additionally, this challenge could be expanded to include more features, such as allowing the user to sort the repositories by different criteria or displaying a visual representation of the data using a chart or graph.
+
 ## Resources
 
 ### W3 Schools
